@@ -1,0 +1,14 @@
+C:\Users\KoyzdoBR\Desktop\ChatServer\Client\bin\Debug\Client.exe.config
+C:\Users\KoyzdoBR\Desktop\ChatServer\Client\bin\Debug\Client.exe
+C:\Users\KoyzdoBR\Desktop\ChatServer\Client\bin\Debug\Client.pdb
+C:\Users\KoyzdoBR\Desktop\ChatServer\Client\bin\Debug\ServerWcfService.dll
+C:\Users\KoyzdoBR\Desktop\ChatServer\Client\obj\x86\Debug\Client.frmClient.resources
+C:\Users\KoyzdoBR\Desktop\ChatServer\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\KoyzdoBR\Desktop\ChatServer\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\KoyzdoBR\Desktop\ChatServer\Client\obj\x86\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\KoyzdoBR\Desktop\ChatServer\Client\obj\x86\Debug\Client.exe
+C:\Users\KoyzdoBR\Desktop\ChatServer\Client\obj\x86\Debug\Client.pdb
+C:\Users\KoyzdoBR\Desktop\ChatServer\Client\bin\Debug\ChatLibrary.dll
+C:\Users\KoyzdoBR\Desktop\ChatServer\Client\bin\Debug\ChatLibrary.pdb
+C:\Users\KoyzdoBR\Desktop\ChatServer\Client\bin\Debug\MetroFramework.dll
+C:\Users\KoyzdoBR\Desktop\ChatServer\Client\bin\Debug\MetroFramework.Fonts.dll
